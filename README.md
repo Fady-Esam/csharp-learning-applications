@@ -7,23 +7,26 @@ It covers everything from the fundamentals to advanced topics, demonstrating pro
 
 ## 🧠 What I Learned & Applied
 
-📌 **Basics & Fundamentals** 
+- 📌 **Basics**  
 → Variables, Data Types, Conditionals, Loops, Methods, Arrays, Collections, Tuples
 
-🎯 **Object-Oriented Programming (OOP)**  
+- 🎯 **Object-Oriented Programming (OOP)**  
 → Classes, Structs, Inheritance, Polymorphism, Encapsulation, Abstraction, Attributes
 
-📊 **Data Structures & Algorithms**  
-→ Arrays, Lists, Stacks, Queues, Dictionaries, Hash Tables, Sorted Data Structures, Searching, Sorting
+- 📊 **Data Structures & Algorithms**  
+→ Arrays, Lists, Stacks, Queues, Trees, Dictionaries, Hash Tables, Sorted Data Structures, Searching, Sorting
 
-🔍 **LINQ & Data Querying**  
+- 🔍 **LINQ & Data Querying**  
 → LINQ Queries, Filtering, Projections, Aggregations
 
-🧮 **Working with Data** 
-→ Tables, Views, Sets, Console Projects, File I/O, Registry Access
+- 🧮 **Working with Data**  
+→ Tables, Views, Sets, Console Projects, Registry Access
 
-⚙️ **Advanced Topics**  
+- ⚙️ **Advanced Topics**  
 → Async/Await, Multithreading, Tasks, Delegates, Events, Serialization, Encryption
+
+- 💻 **Problem Solving Practice**  
+→ Projects, exercises, and algorithmic problems focused on logic
 
 
 ---
