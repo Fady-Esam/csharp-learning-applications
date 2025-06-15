@@ -11,7 +11,7 @@ It covers everything from the fundamentals to advanced topics, demonstrating pro
 → Variables, Data Types, Conditionals, Loops, Methods, Arrays, Collections, Tuples
 
 - 🎯 **Object-Oriented Programming (OOP)**  
-→ Classes, Structs, Inheritance, Polymorphism, Encapsulation, Abstraction, Attributes
+→ Classes, Structs, Inheritance, Polymorphism, Encapsulation, Abstraction, Constructors/Destructors, Attributes
 
 - 📊 **Data Structures & Algorithms**  
 → Arrays, Lists, Stacks, Queues, Trees, Dictionaries, Hash Tables, Sorted Data Structures, Searching, Sorting
