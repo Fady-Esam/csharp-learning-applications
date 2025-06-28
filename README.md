@@ -1,7 +1,7 @@
 # 📘 C# Practical Projects & Applications
 
-A well-organized collection of C# solutions and projects developed during my journey of learning and applying C# programming and .NET concepts.  
-It covers everything from the fundamentals to advanced topics, demonstrating problem-solving and hands-on implementations through real examples.
+A well-organized collection of **C#** solutions and projects developed during my journey of learning and applying **.NET** concepts.  
+It covers everything from the **fundamentals** to advanced topics, demonstrating **problem-solving** and hands-on implementations through real examples.
 
 ---
 
@@ -32,6 +32,7 @@ It covers everything from the fundamentals to advanced topics, demonstrating pro
 ---
 
 ## 🛠️ Languages & Tools
+
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="Languages & Frameworks" />
   <img src="https://github.com/user-attachments/assets/3136feed-3e70-4e7c-8ea6-83fe0503adc1" alt="ADO .NET" width="48" height="48"/>
