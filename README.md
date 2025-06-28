@@ -1,7 +1,7 @@
 # 📘 C# Practical Projects & Applications
 
 A well-organized collection of **C#** solutions and projects developed during my journey of learning and applying **.NET** concepts.  
-It covers everything from the **fundamentals** to advanced topics, demonstrating **problem-solving** and hands-on implementations through real examples.
+It covers everything from the **Fundamentals** to advanced topics, demonstrating **Problem-Solving** and hands-on implementations through real examples.
 
 ---
 
